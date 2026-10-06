@@ -20,7 +20,6 @@ I am a developer who learns by building from the ground up. My public work spans
 |------------|-------------|----------|---------|
 | [quantos-ai](https://github.com/Raphael-Varghese/quantos-ai) | An AI model made fully from scratch and trained on a CPU machine. | Python | MIT |
 | [yolest](https://github.com/Raphael-Varghese/yolest) | Repo for publishing AI-related work and experiments. | Python | MIT |
-| [yolest-ai](https://github.com/Raphael-Varghese/yolest-ai) | A simple AI project leveraging external models and APIs. | Python | Other |
 
 ---
 
@@ -39,7 +38,6 @@ I am a developer who learns by building from the ground up. My public work spans
 | Repository | Description | Language | License |
 |------------|-------------|----------|---------|
 | [hacktools](https://github.com/Raphael-Varghese/hacktools) | Python replications of every major hacking tool. **Warning: for ethical use and education only.** | Python | — |
-| [killercoda-kali](https://github.com/Raphael-Varghese/killercoda-kali) | Container setup for Killercoda Kali Linux environments. Shell-based infrastructure for labs. | Shell | — |
 
 ---
 
